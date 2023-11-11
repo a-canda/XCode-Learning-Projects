@@ -1,5 +1,5 @@
 # XCode-Learning-Projects
-This is a compilation of App project files that I have completed in my attempt to learn how to code
+This is a compilation of App projects that I have completed in my attempt to learn how to code
 Swift on Xcode.
 
 These projects were completed while studying a Udemy course online, "IOS 17, SwiftUI 5, & Swift 5.9:
