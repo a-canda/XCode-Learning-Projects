@@ -12,4 +12,3 @@ Course contents include:
 - Breaking Bad Quotes - Say My Name - Networking App
 - Dex3 - Core Data App
 - Harry Potter Trivia
-- Clue Calculator
