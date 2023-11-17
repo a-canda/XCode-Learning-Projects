@@ -8,7 +8,12 @@ Build IoS Apps From Scratch"
 Course contents include:
 
 - LotR coin converter
+  - A simple Lord of the Rings-themed coin converter
 - JP Apex Predators - Master Detail App
+  - A dictionary of Dinosaurs that includes a filtering and sorting capability
+  - Dinosaur information is implemented via JSON file
 - Breaking Bad Quotes - Say My Name - Networking App
+  - A random quotes generator from the Breaking Bad and Better Call Saul series
+  - Quotes and Character information is pulled from an online API and implemented into the application
 - Dex3 - Core Data App
 - Harry Potter Trivia
