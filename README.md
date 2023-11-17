@@ -15,5 +15,6 @@ Course contents include:
 - Breaking Bad Quotes - Say My Name - Networking App
   - A random quotes generator from the Breaking Bad and Better Call Saul series
   - Quotes and Character information is pulled from an online API and implemented into the application
+  - User can tap the character's image to read that character's description
 - Dex3 - Core Data App
 - Harry Potter Trivia
