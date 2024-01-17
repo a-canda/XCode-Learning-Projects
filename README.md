@@ -17,4 +17,10 @@ Course contents include:
   - Quotes and Character information is pulled from an online API and implemented into the application
   - User can tap the character's image to read that character's description
 - Dex3 - Core Data App
+  - A Pokedex app
+  - Contains first few generations of Pokemon, data collected from PokeAPI
+  - User can select a pokemon to view its stats and select as a favorite
+  - A filter option is implemented for selected favorite pokemon menu
+  - Selected pokemon view has a switch button to view the Shiny version of selected pokemon.
 - Harry Potter Trivia
+  - Not completed yet.
